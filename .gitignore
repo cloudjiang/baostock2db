@@ -76,7 +76,6 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -100,7 +99,6 @@ venv.bak/
 dmypy.json
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -135,3 +133,5 @@ base_factor_data_quality_report.html
 *.md
 *.png
 *.html
+config.bat
+node_modules
